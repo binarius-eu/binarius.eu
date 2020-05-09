@@ -98,4 +98,8 @@ px      68    160    252    */
   #contact .block textarea {
     width: 100%;
   }
+
+  #hero-area .block .counter {
+    width: 350px;
+  }
 }
